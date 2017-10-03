@@ -5,5 +5,7 @@ October 2, 2017 AzDev Challenge
 
 Python Script ranking top subscribers on YouTube!
 
+Using google's api.
 
 By: David, Shekib, Carter, and Raj
+
